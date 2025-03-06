@@ -1,5 +1,5 @@
-usuario = 'admin'
-senha = 'admin123'
+usuario = 'Angelo'
+senha = 'Angelo123'
     
 def Login():
     print("Digite seu usuario")
